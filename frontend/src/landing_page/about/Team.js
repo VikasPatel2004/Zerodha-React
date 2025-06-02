@@ -9,9 +9,10 @@ function Team() {
 
             <div className='row p-3 text-muted' style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
                 <div className='col-6 p-5 text-center'>
-                    <img src='Media/Images/MySelfe.jpeg' style={{ borderRadius: "100%", width: "75%" }} />
-                    <h4 className='mt-5'>Utkarsh Raj</h4>
-                    <h6>B. Tech CSE Student</h6>
+                    <img src='Media/Images/Vikas.jpg' style={{ borderRadius: "100%", width: "75%" }} />
+                    <h4 className='mt-5'>Vikas Patel</h4>
+                    <h5>Madhav Institute Of Technology</h5>
+                    <h6>B. Tech AI student</h6>
                 </div>
                 <div className='col-6 p-3'>
                     <p>This is Utkarsh Raj, B. Tech final year student.</p>
@@ -24,7 +25,7 @@ function Team() {
                 </div>
             </div>
             </div>
-        </div>
+        
     );
 }
 
